@@ -1,0 +1,27 @@
+PODS:
+  - HSAFNetworking (0.1.0)
+  - HSBaseModel (0.1.0)
+  - HSLogining (0.1.0):
+    - HSAFNetworking (~> 0.1.0)
+
+DEPENDENCIES:
+  - HSAFNetworking (from `Lib/HSAFNetworking`)
+  - HSBaseModel (from `Lib/HSBaseModel`)
+  - HSLogining (from `Lib/HSLogining`)
+
+EXTERNAL SOURCES:
+  HSAFNetworking:
+    :path: Lib/HSAFNetworking
+  HSBaseModel:
+    :path: Lib/HSBaseModel
+  HSLogining:
+    :path: Lib/HSLogining
+
+SPEC CHECKSUMS:
+  HSAFNetworking: 7286d64688266b37a0a0b69f22283f6979080203
+  HSBaseModel: 327d6da174bef96a7cd3b1eba20c813503c30968
+  HSLogining: ebffa653afc73975de4baabf5f88f4b956a7004d
+
+PODFILE CHECKSUM: 8529ad8549af0acffd3a2a1f68fa9f9b430b3658
+
+COCOAPODS: 1.4.0

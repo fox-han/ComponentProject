@@ -1,0 +1,1 @@
+../../../../Lib/HSBaseModel/HSBaseModel/Classes/ZSKBaseModel.h

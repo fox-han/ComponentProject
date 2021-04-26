@@ -1,0 +1,27 @@
+{
+  "name": "HSLogining",
+  "version": "0.1.0",
+  "summary": "A short description of HSLogining.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fox-han/HSLogining",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fox-han": "sdtahwg@126.com"
+  },
+  "source": {
+    "git": "https://github.com/fox-han/HSLogining.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HSLogining/Classes/**/*",
+  "dependencies": {
+    "HSAFNetworking": [
+      "~> 0.1.0"
+    ]
+  }
+}
